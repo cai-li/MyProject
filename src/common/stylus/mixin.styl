@@ -1,0 +1,26 @@
+border-1px($color)
+  position: relative
+  &:after
+    display: block
+    position: absolute
+    left: 0
+    bottom: 0
+    width: 100%
+    border-top: 1px solid $color
+    content: ' ' 
+
+border-none()
+  &:after
+    display: none
+    
+/*顶部半像素边框*/
+borderTop-1px($color)
+  position: relative
+  &:before
+    display: block
+    position: absolute
+    left: 0
+    top: 0
+    width: 100%
+    border-top: 1px solid $color
+    content: ' ' 
