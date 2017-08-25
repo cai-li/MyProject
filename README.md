@@ -7,9 +7,6 @@
 ### install dependencies
 npm install
 
-### install stylus
-npm install stylus
-
 ### serve with hot reload at localhost:8080
 npm run dev
 
