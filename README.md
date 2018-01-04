@@ -1,6 +1,7 @@
 # Using vuejs to create a hungry mobile terminal project 
 
-> A Vue.js project
+>模仿饿了么的vue项目
+
 
 ## Build Setup
 

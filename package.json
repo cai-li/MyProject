@@ -1,7 +1,7 @@
 {
   "name": "vue711",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "使用vue框架模仿饿了么项目",
   "author": "caili",
   "private": true,
   "scripts": {
